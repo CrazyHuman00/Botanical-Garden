@@ -12,7 +12,7 @@ public class Counter
     // コンストラクタ
     public Counter()
     {
-        value.set(0);;
+        value.set(0);
     }
 
     // カウンタの値を取得
